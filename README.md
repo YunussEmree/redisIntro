@@ -1,15 +1,15 @@
 
-Redis means "Remote Dictionary Server"
+Redis means "Remote Dictionary Server" 
+<br>
 <br>
 Redis adventages:
 + Performance
 + Key-value database
 <br>
-Some area of use redis :
-+ cache management
-+ session management
-+ Real time analysis
-<br>
+Some area of use redis :<br>
++ cache management<br>
++ session management<br>
++ Real time analysis<br>
 <br>
 How can you add the redis on your project with maven: <br>
 <br>
