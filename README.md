@@ -11,9 +11,9 @@ Some area of use redis :
 + Real time analysis
 <br>
 How can you add the redis on your project with maven: <br>
-<dependency><br>
-    <groupId>org.springframework.boot</groupId><br>
-    <artifactId>spring-boot-starter-data-redis</artifactId><br>
-    <version>3.1.4</version><br>
-</dependency><br>
+&lt;dependency&gt;<br>
+    &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;<br>
+    &lt;artifactId&gt;spring-boot-starter-data-redis&lt;/artifactId&gt;<br>
+    &lt;version&gt;3.1.4&lt;/version&gt;<br>
+&lt;/dependency&gt;<br>
 <br>
